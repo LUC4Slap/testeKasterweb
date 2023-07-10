@@ -9,10 +9,30 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@kasterweb/get-native-array": "^1.0.12",
+    "@kasterweb/http-stream-rn": "^1.0.1",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "@realm/react": "^0.5.1",
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
+    "lodash": "^4.17.21",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-hook-form": "^7.45.1",
+    "react-native": "0.71.8",
+    "react-native-device-info": "^10.7.0",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-get-random-values": "~1.8.0",
+    "react-native-image-picker": "^5.6.0",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-svg": "13.4.0",
+    "react-native-vector-icons": "^9.2.0",
+    "realm": "^11.10.1",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
